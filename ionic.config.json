@@ -1,0 +1,7 @@
+{
+  "name": "my-app-clase10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
